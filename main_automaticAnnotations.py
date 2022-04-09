@@ -43,7 +43,7 @@ if __name__ == "__main__":
     ]
 
     # zoom level to use
-    size = 1.25
+    size = 5
 
     # resolution of the baseline image to be extratcted from the full scale image
     res = 0.4
