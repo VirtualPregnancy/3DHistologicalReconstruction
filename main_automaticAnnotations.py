@@ -39,11 +39,14 @@ if __name__ == "__main__":
     # '/eresearch/uterine/jres129/BoydCollection/H673A_7.6/',
     # '/eresearch/uterine/jres129/BoydCollection/H750A_7.0/',
     # '/eresearch/uterine/jres129/BoydCollection/H1029A_8.4/'
-    '/eresearch/uterine-vasculature-marsden135/mmad610/BoydCollection/mm_test/'
+    # '/eresearch/uterine-vasculature-marsden135/mmad610/BoydCollection/mm_test/'
+    #  '/eresearch/uterine-vasculature-marsden135/mmad610/BoydCollection/H671A_18.5/'
+    #  '/eresearch/uterine-vasculature-marsden135/mmad610/BoydCollection/H653A_11.3/'
+    '/eresearch/uterine-vasculature-marsden135/mmad610/BoydCollection/H671B_18.5/'
     ]
 
     # zoom level to use
-    size = 1.25
+    size = 5
 
     # resolution of the baseline image to be extratcted from the full scale image
     res = 0.4
